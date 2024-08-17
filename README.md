@@ -27,10 +27,6 @@ Nuclei is a context-aware AI chatbot built with Streamlit and powered by Groq's 
     pip install -r requirements.txt
     ```
 
-4. **Set up your `.env` file** with the following environment variables:
-    ```plaintext
-    GROQ_API_KEY=your_groq_api_key
-    ```
 
 ## Usage
 
