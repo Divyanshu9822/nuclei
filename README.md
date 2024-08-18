@@ -2,6 +2,8 @@
 
 Nuclei is a context-aware AI chatbot built with Streamlit and powered by Groq's API. It remembers the context of your conversation, ensuring more coherent and relevant interactions. Easily integrate your GROQ API key and choose from various AI models to start chatting with Nuclei.
 
+![image](https://github.com/user-attachments/assets/6c096a3a-a0ac-4349-8f1b-2b81cffe1464)
+
 ## Features
 
 - **Context-Aware Conversations**: Nuclei keeps track of previous interactions, providing a seamless and intelligent conversation experience.
